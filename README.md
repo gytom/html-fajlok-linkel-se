@@ -1,1 +1,1 @@
-README
+Weboldalak linkelésével készült
